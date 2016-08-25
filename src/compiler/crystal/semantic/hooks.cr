@@ -49,7 +49,7 @@ module Crystal
     #
     # ```
     # module Moo
-    #   macro extended
+    #   macro included
     #     puts 1
     #   end
     # end
